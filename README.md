@@ -69,3 +69,22 @@ We can learn how to ceate a custom runner and delploy it on the AWS EC2 instance
 
 
 **10. Press Enter-Enter by looking at the token and matching it with the runner token on the gitlab site**
+
+
+**11.It Asks for different types of executers like docker, docker-ssh, docker-windows, sh, bash,etc.**
+
+![image](https://github.com/kushalShuklaaa/Gitlab-Runner-Documentation/assets/96085546/2b2c6aa5-7f84-4e9a-be8f-61a55e77539d)
+
+
+
+![image](https://github.com/kushalShuklaaa/Gitlab-Runner-Documentation/assets/96085546/a5f6bf99-0edd-4ff4-a1c6-db4ebfb11345)
+
+
+**12. After that when we go in our git lab account and expand runners section, we can see our runner in the list.**
+
+
+
+![image](https://github.com/kushalShuklaaa/Gitlab-Runner-Documentation/assets/96085546/8ac5cbe9-ad4d-4860-8918-37e2f06dfd4c)
+
+
+
