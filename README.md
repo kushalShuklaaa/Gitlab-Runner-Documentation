@@ -90,7 +90,7 @@ We can learn how to ceate a custom runner and delploy it on the AWS EC2 instance
 **Adding Gitlab Runner to the AWS instance**
 
 
-![image](https://github.com/kushalShuklaaa/Gitlab-Runner-Documentation/assets/96085546/b36db832-a9cc-443d-a71b-3aab39f7f6bc)
+![image](https://github.com/kushalShuklaaa/Gitlab-Runner-Documentation/assets/96085546/4c70c35e-252c-4574-aa40-7c32765edaef)
 
 
 
